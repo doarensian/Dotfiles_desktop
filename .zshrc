@@ -118,6 +118,12 @@ alias grep='grep --color=auto'
 alias mv='mv -i'
 alias rm='rm -i'
 
+#Alias fot config settings
+alias cdi3='cd ~/.config/i3/'
+alias cdi3s='cd ~/.config/i3status/'
+alias cdvim='cd ~/.vim/bundle/'
+alias cdro='cd ~/.config/rofi/'
+
 # Fcitx for Mozc
 export DefaultIMModule=fcitx
 export GTK_IM_MODULE=fcitx
