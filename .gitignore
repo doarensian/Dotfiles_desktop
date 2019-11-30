@@ -1,0 +1,4 @@
+#Ignore folders and files
+.vim/autoload/
+.vim/bundle/
+.vim/.netrwhist
